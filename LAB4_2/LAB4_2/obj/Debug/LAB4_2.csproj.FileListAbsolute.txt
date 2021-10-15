@@ -1,0 +1,7 @@
+E:\LAB4 OOП\LAB4\LAB4_2\LAB4_2\bin\Debug\LAB4_2.exe.config
+E:\LAB4 OOП\LAB4\LAB4_2\LAB4_2\bin\Debug\LAB4_2.exe
+E:\LAB4 OOП\LAB4\LAB4_2\LAB4_2\bin\Debug\LAB4_2.pdb
+E:\LAB4 OOП\LAB4\LAB4_2\LAB4_2\obj\Debug\LAB4_2.csprojAssemblyReference.cache
+E:\LAB4 OOП\LAB4\LAB4_2\LAB4_2\obj\Debug\LAB4_2.csproj.CoreCompileInputs.cache
+E:\LAB4 OOП\LAB4\LAB4_2\LAB4_2\obj\Debug\LAB4_2.exe
+E:\LAB4 OOП\LAB4\LAB4_2\LAB4_2\obj\Debug\LAB4_2.pdb
